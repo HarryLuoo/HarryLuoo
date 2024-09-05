@@ -1,6 +1,6 @@
 You have reached Harry's GitHub page...
 
-I'm an undergrad in Math&Physics on most days, and most of my active repos serve as my testaments to the classes who deserve to have their notes typed up in LaTeX.
+I'm an undergrad in Math&Physics on most days, and most of my active repos serve as my testaments to the classes who deserve to have their notes typed up in LaTeX. They are public mainly because it's easier for sharing & occasionally flexing.
 
 You can also find me at...
 
