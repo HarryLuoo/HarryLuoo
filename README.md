@@ -1,7 +1,6 @@
-Hi, I'm Harry, welcome to my GitHub page!
+You have reached Harry's GitHub page...
 
-I'm an undergrad at UW-Madison majoring in Applied Mathematics, Engineering, and Physics, and I am trying to sporadically update my lecture notes here mainly for personal reference.
-
+I'm an undergrad in Math&Physics on most days, and most of my active repos serve as my testaments to those classes who deserve to have their notes typed up in LaTeX. 
 
 You can also find me at...
 
