@@ -2,7 +2,7 @@ You have reached Harry's GitHub page...
 
 You can also find me at...
 
-@Linkedin [Harry Luo](https://www.linkedin.com/in/harryluogz/)
+@Linkedin [Harry Luo](https://www.linkedin.com/in/gzluo/)
 
 
 
